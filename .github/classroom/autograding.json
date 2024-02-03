@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "cargo build",
+      "setup": "",
+      "run": "cargo run",
+      "input": "",
+      "output": "Hello, world!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
