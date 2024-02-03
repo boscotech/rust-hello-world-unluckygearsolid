@@ -1,4 +1,5 @@
 # hello-world-rs
+Make sure to read [Chapter 1 of Rust By Example](https://doc.rust-lang.org/rust-by-example/hello.html)! \
 Use `git clone` to clone this repository.
 ```
 git clone https://github.com/boscotech/rust-hello-world-YOUR_USERNAME
