@@ -1,6 +1,6 @@
 # hello-world-rs
 Make sure to read [Chapter 1 of Rust By Example](https://doc.rust-lang.org/rust-by-example/hello.html)! \
-Use `git clone` to clone this repository.
+Use `git clone` to clone this repository. If you are using Windows, make sure to download git first via the [Git Bash Installer](https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe).
 ```
 git clone https://github.com/boscotech/rust-hello-world-YOUR_USERNAME
 ```
@@ -13,7 +13,7 @@ Use `cd` to change into the directory.
 ```
 cd rust-hello-world-YOUR_USERNAME
 ```
-Now, install Rust.
+Now, install Rust. If you are using Windows, please install rust via the [Windows Rust Installer](https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe).
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
